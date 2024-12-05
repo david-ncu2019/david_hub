@@ -1,0 +1,1341 @@
+.
+├── 20230319
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230319/20230319.slc
+├── 20230330
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230330/20230330.slc
+├── 20230410
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230410/20230410.slc
+├── 20230421
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230421/20230421.slc
+├── 20230502
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230502/20230502.slc
+├── 20230513
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230513/20230513.slc
+├── 20230604
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230604/20230604.slc
+├── 20230615
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230615/20230615.slc
+├── 20230626
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230626/20230626.slc
+├── 20230707
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230707/20230707.slc
+├── 20230729
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230729/20230729.slc
+├── 20230809
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230809/20230809.slc
+├── 20230820
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230820/20230820.slc
+├── 20230831
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230831/20230831.slc
+├── 20230911
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230911/20230911.slc
+├── 20231003
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20231003/20231003.slc
+├── 20231025
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20231025/20231025.slc
+├── 20231116
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20231116/20231116.slc
+├── 20231208
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20231208/20231208.slc
+├── 20231230
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20231230/20231230.slc
+├── 20240121
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240121/20240121.slc
+├── 20240212
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240212/20240212.slc
+├── 20240305
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240305/20240305.slc
+├── 20240327
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240327/20240327.slc
+├── 20240612
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240612/20240612.slc
+├── 20240704
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240704/20240704.slc
+├── 20240726
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240726/20240726.slc
+├── 20240817
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240817/20240817.slc
+├── 20240908
+│   ├── baseline
+│   ├── coreg_fine
+│   ├── isce_minrefdem.int
+│   ├── isce_minrefdem.int.vrt
+│   ├── isce_minrefdem.int.xml
+│   ├── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   └── secondary.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20240908/20240908.slc
+├── amp_mean.mat
+├── aps.log
+├── available__files_in_folder.txxt
+├── baselineGRID_20230319
+├── baselineGRID_20230319.vrt
+├── baselineGRID_20230319.xml
+├── baselineGRID_20230330
+├── baselineGRID_20230330.vrt
+├── baselineGRID_20230330.xml
+├── baselineGRID_20230410
+├── baselineGRID_20230410.vrt
+├── baselineGRID_20230410.xml
+├── baselineGRID_20230421
+├── baselineGRID_20230421.vrt
+├── baselineGRID_20230421.xml
+├── baselineGRID_20230502
+├── baselineGRID_20230502.vrt
+├── baselineGRID_20230502.xml
+├── baselineGRID_20230513
+├── baselineGRID_20230513.vrt
+├── baselineGRID_20230513.xml
+├── baselineGRID_20230604
+├── baselineGRID_20230604.vrt
+├── baselineGRID_20230604.xml
+├── baselineGRID_20230615
+├── baselineGRID_20230615.vrt
+├── baselineGRID_20230615.xml
+├── baselineGRID_20230626
+├── baselineGRID_20230626.vrt
+├── baselineGRID_20230626.xml
+├── baselineGRID_20230707
+├── baselineGRID_20230707.vrt
+├── baselineGRID_20230707.xml
+├── baselineGRID_20230729
+├── baselineGRID_20230729.vrt
+├── baselineGRID_20230729.xml
+├── baselineGRID_20230809
+├── baselineGRID_20230809.vrt
+├── baselineGRID_20230809.xml
+├── baselineGRID_20230820
+├── baselineGRID_20230820.vrt
+├── baselineGRID_20230820.xml
+├── baselineGRID_20230831
+├── baselineGRID_20230831.vrt
+├── baselineGRID_20230831.xml
+├── baselineGRID_20230911
+├── baselineGRID_20230911.vrt
+├── baselineGRID_20230911.xml
+├── baselineGRID_20231003
+├── baselineGRID_20231003.vrt
+├── baselineGRID_20231003.xml
+├── baselineGRID_20231025
+├── baselineGRID_20231025.vrt
+├── baselineGRID_20231025.xml
+├── baselineGRID_20231116
+├── baselineGRID_20231116.vrt
+├── baselineGRID_20231116.xml
+├── baselineGRID_20231208
+├── baselineGRID_20231208.vrt
+├── baselineGRID_20231208.xml
+├── baselineGRID_20231230
+├── baselineGRID_20231230.vrt
+├── baselineGRID_20231230.xml
+├── baselineGRID_20240121
+├── baselineGRID_20240121.vrt
+├── baselineGRID_20240121.xml
+├── baselineGRID_20240212
+├── baselineGRID_20240212.vrt
+├── baselineGRID_20240212.xml
+├── baselineGRID_20240305
+├── baselineGRID_20240305.vrt
+├── baselineGRID_20240305.xml
+├── baselineGRID_20240327
+├── baselineGRID_20240327.vrt
+├── baselineGRID_20240327.xml
+├── baselineGRID_20240612
+├── baselineGRID_20240612.vrt
+├── baselineGRID_20240612.xml
+├── baselineGRID_20240704
+├── baselineGRID_20240704.vrt
+├── baselineGRID_20240704.xml
+├── baselineGRID_20240726
+├── baselineGRID_20240726.vrt
+├── baselineGRID_20240726.xml
+├── baselineGRID_20240817
+├── baselineGRID_20240817.vrt
+├── baselineGRID_20240817.xml
+├── baselineGRID_20240908
+├── baselineGRID_20240908.vrt
+├── baselineGRID_20240908.xml
+├── baseline_overview_new
+├── bp2.mat
+├── bperp.1.in
+├── calamp.in
+├── calamp.out
+├── day.1.in
+├── dem.raw
+├── dem.raw.vrt
+├── dem.raw.xml
+├── e.raw
+├── e.raw.vrt
+├── e.raw.xml
+├── file_structure.txt
+├── final_parameter.mat
+├── heading.1.in
+├── heading.raw
+├── heading.raw.aux.xml
+├── heading.raw.vrt
+├── heading.raw.xml
+├── hgt2.mat
+├── ifgstd2.mat
+├── inc2.mat
+├── inc_angle.raw
+├── inc_angle.raw.vrt
+├── inc_angle.raw.xml
+├── input_file
+├── la2.mat
+├── lambda.1.in
+├── lat.raw
+├── lat.raw.vrt
+├── lat.raw.xml
+├── len.txt
+├── lon.raw
+├── lon.raw.vrt
+├── lon.raw.xml
+├── mean_amp.flt
+├── mean_v.mat
+├── no_ps_info.mat
+├── n.raw
+├── n.raw.vrt
+├── n.raw.xml
+├── parms_20241119_22h28m.mat
+├── parms_aps.mat
+├── parms.mat
+├── PATCH_1
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_10
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_11
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_12
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_13
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_14
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_15
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_16
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── ifgstd2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_17
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_18
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_19
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_2
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_20
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_21
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_22
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_23
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_24
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_25
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_3
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_4
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_5
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_6
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_7
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_8
+│   ├── amp_mean.mat
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── PATCH_9
+│   ├── bp1.mat
+│   ├── bp2.mat
+│   ├── da1.mat
+│   ├── hgt1.mat
+│   ├── hgt2.mat
+│   ├── inc1.mat
+│   ├── inc2.mat
+│   ├── log.mat
+│   ├── mean_amp.flt
+│   ├── no_ps_info.mat
+│   ├── patch.in
+│   ├── patch_noover.in
+│   ├── ph1.mat
+│   ├── ph2.mat
+│   ├── pm1.mat
+│   ├── pm2.mat
+│   ├── ps1.mat
+│   ├── ps2.mat
+│   ├── pscands.1.da
+│   ├── pscands.1.hgt
+│   ├── pscands.1.ij
+│   ├── pscands.1.ij0
+│   ├── pscands.1.ij.int
+│   ├── pscands.1.ll
+│   ├── pscands.1.ph
+│   ├── psver.mat
+│   ├── psweed.1.node
+│   ├── psweed.2.edge
+│   ├── psweed.2.ele
+│   ├── psweed.2.node
+│   ├── rc2.mat
+│   ├── select1.mat
+│   ├── STAMPS.log
+│   ├── triangle_weed.log
+│   └── weed1.mat
+├── patch (copy).list
+├── patch.list
+├── patch.list_old
+├── ph2.mat
+├── phuw2.mat
+├── pm2.mat
+├── processing_SM.log
+├── processor.txt
+├── ps2.mat
+├── pscdem.in
+├── psclonlat.in
+├── pscphase.in
+├── ps_parms_initial.log
+├── ps_plot_ts_matname.txt
+├── ps_plot_ts_v-dao.mat
+├── ps_plot_ts_v.mat
+├── ps_plot_v-dao.mat
+├── ps_plot_v-do.mat
+├── ps_plot_v.mat
+├── ps_velocity_v-dao.kml
+├── psver.mat
+├── rc2.mat
+├── reference
+│   ├── 20230718.hdr -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.hdr
+│   ├── 20230718.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+│   ├── 20230718.slc.aux.xml -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc.aux.xml
+│   ├── 20230718.slc.vrt
+│   ├── 20230718.slc.xml
+│   ├── baseline
+│   ├── geom
+│   └── reference.slc -> /home/davidncu/ISCE_MintPy/StaMPS_Workspace/TSX_Run014_PS002/tsx014_crop/SLC//20230718/20230718.slc
+├── reference_day.1.in
+├── scla.1.node
+├── scla.2.edge
+├── scla.2.ele
+├── scla2.mat
+├── scla.2.node
+├── scla_smooth2.mat
+├── scn2.mat
+├── scnfilt.1.node
+├── scnfilt.2.edge
+├── scnfilt.2.ele
+├── scnfilt.2.node
+├── selpsc.in
+├── slc_osfactor.1.in
+├── slcs.list
+├── snaphu.conf
+├── snaphu.costinfile
+├── snaphu.in
+├── snaphu.log
+├── snaphu.out
+├── STAMPS.log
+├── stamps_tsexport_incangle.csv
+├── stamps_tsexport_ref2DNAN_20241121.csv
+├── tca2.mat
+├── triangle.log
+├── triangle_scla.log
+├── triangle_scn.log
+├── TSX_ref2DNAN_20241126.csv
+├── TSX_ref2DNAN_incangle_20241121.csv
+├── unwrap.1.node
+├── unwrap.2.edge
+├── unwrap.2.ele
+├── unwrap.2.node
+├── u.raw
+├── u.raw.vrt
+├── u.raw.xml
+├── uw_grid.mat
+├── uw_interp.mat
+├── uw_phaseuw.mat
+├── uw_space_time.mat
+└── width.txt
+
+85 directories, 1253 files
